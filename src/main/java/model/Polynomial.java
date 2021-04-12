@@ -1,6 +1,5 @@
-package DataModels;
+package model;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.regex.*;
 
 public class Polynomial {

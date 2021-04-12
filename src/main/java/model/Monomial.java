@@ -1,4 +1,4 @@
-package DataModels;
+package model;
 
 public class Monomial {
     private int power;

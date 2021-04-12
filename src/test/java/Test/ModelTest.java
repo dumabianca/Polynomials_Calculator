@@ -1,8 +1,7 @@
 package Test;
 
-import DataModels.Model;
-import DataModels.MonomialDouble;
-import DataModels.Polynomial;
+import model.Model;
+import model.Polynomial;
 
 import java.util.ArrayList;
 

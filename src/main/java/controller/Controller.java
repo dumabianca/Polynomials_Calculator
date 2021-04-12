@@ -1,7 +1,7 @@
-package ControllerPackage;
-import DataModels.Model;
-import DataModels.Polynomial;
-import ViewPackage.View;
+package controller;
+import model.Model;
+import model.Polynomial;
+import view.View;
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

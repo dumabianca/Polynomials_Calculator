@@ -1,6 +1,4 @@
-package DataModels;
-
-import DataModels.Monomial;
+package model;
 
 import java.util.Comparator;
 

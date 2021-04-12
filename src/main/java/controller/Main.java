@@ -1,8 +1,7 @@
-package ControllerPackage;
+package controller;
 
-import DataModels.Model;
-import ControllerPackage.Controller;
-import ViewPackage.View;
+import model.Model;
+import view.View;
 
 public class Main {
     public static void main(String[] args)

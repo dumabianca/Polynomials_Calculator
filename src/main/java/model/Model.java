@@ -1,8 +1,5 @@
-package DataModels;
+package model;
 
-import DataModels.*;
-
-import java.text.DecimalFormat;
 import java.util.*;
 
 public class Model {

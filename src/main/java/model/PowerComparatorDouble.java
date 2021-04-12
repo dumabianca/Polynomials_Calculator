@@ -1,4 +1,4 @@
-package DataModels;
+package model;
 
 import java.util.Comparator;
 
